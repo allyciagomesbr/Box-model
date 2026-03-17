@@ -1,0 +1,27 @@
+.ex1{
+ width: 800px;
+    
+}
+
+.ex2{
+ width: 800px;
+    
+
+}
+
+.ex3{
+ max-width:500px;
+    background-color: bisque;
+
+}
+
+
+.ex4{
+
+ max-width:300px;
+ margin:0 auto;
+ background-color: antiquewhite;
+}
+ 
+
+
